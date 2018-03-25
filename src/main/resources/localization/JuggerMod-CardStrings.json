@@ -7,6 +7,10 @@
 		"NAME": "Defend",
 		"DESCRIPTION": "Gain !B! Block."
 	},
+	"Phantom Strike": {
+		"NAME": "Phantom Strike",
+		"DESCRIPTION": "Deal !D! damage. Apply an Illusion for 50% of the Damage dealt."
+	},
 	"Struggle": {
 		"NAME": "Struggle",
 		"DESCRIPTION": "Deal !D! damage. Costs 1 more [R] for each card in your hand except this card."
