@@ -7,6 +7,10 @@
 		"NAME": "Defend",
 		"DESCRIPTION": "Gain !B! Block."
 	},
+	"Illusion Barrier": {
+		"NAME": "Illusion Barrier",
+		"DESCRIPTION": "Gain !B! Block. Apply an Illusion for 50% of the Block Gained."
+	},
 	"Phantom Strike": {
 		"NAME": "Phantom Strike",
 		"DESCRIPTION": "Deal !D! damage. Apply an Illusion for 50% of the Damage dealt."

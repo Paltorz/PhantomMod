@@ -24,7 +24,6 @@ public class PhantomStrike extends CustomCard{
     private static final int COST = 1;
     private static final int ATTACK_DMG = 12;
     private static final int UPGRADE_DMG_AMT = 4;
-    private static final int COUNT_DOWN = 3;
     private static final float ILLUSION = 0.5F;
     private static final int POOL = 1;
 
