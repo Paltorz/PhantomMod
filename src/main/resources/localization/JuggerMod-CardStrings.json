@@ -7,6 +7,10 @@
 		"NAME": "Defend",
 		"DESCRIPTION": "Gain !B! Block."
 	},
+	"Immortal Illusion": {
+		"NAME": "Immortal Illusion",
+		"DESCRIPTION": "All damage taken this turn is reduced to 0. Illusion - The damage reduced is dealt !M! turns later."
+	},
 	"Phantasmal Opportunity": {
 		"NAME": "Phantasmal Opportunity",
 		"DESCRIPTION": "Draw 3 cards. You cannot draw anymore cards this turn. Illusion - in !M! turns, discard 2 cards from your hand."

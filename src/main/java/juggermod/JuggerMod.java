@@ -140,6 +140,7 @@ public class JuggerMod implements PostInitializeSubscriber,
     public static final String DAY_DREAM = "cards/overflowing_armor.png";
     public static final String PHANTOM_STRENGTH = "cards/cannibalize.png";
     public static final String PHANTASMAL_OPPORTUNITY = "cards/bolster.png";
+    public static final String IMMORTAL_ILLUSION = "cards/bide.png";
 
     // power images
 
@@ -373,6 +374,7 @@ public class JuggerMod implements PostInitializeSubscriber,
 		BaseMod.addCard(new Strike_Purple());
 		BaseMod.addCard(new Defend_Purple());
 
+        BaseMod.addCard(new ImmortalIllusion());
         BaseMod.addCard(new PhantasmalOpportunity());
         BaseMod.addCard(new PhantomStrength());
         BaseMod.addCard(new DayDream());
