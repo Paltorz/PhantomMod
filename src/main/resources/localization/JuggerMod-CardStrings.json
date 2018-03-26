@@ -7,6 +7,14 @@
 		"NAME": "Defend",
 		"DESCRIPTION": "Gain !B! Block."
 	},
+	"Phantasmal Opportunity": {
+		"NAME": "Phantasmal Opportunity",
+		"DESCRIPTION": "Draw 3 cards. You cannot draw anymore cards this turn. Illusion - in !M! turns, discard 2 cards from your hand."
+	},
+	"Phantom Strength": {
+		"NAME": "Phantom Strength",
+		"DESCRIPTION": "Gain 4(5) Strength. Illusion - Lose 3 Strength in 2 turns."
+	},
     "Day Dream": {
         "NAME": "Day Dream",
         "DESCRIPTION": "Gain [R] [R] . Illusion - lose [R] [R]  !M! turns later."
